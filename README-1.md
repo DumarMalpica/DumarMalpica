@@ -1,8 +1,8 @@
-<h1 align="center">Dumar Malpica</h1>
+<h1 align="center">Dumar Hernan Malpica</h1>
 <p align="center">Junior Data Scientist · LangGraph & AI Systems · Flutter Dev</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN">
+  <a href="https://www.linkedin.com/in/dumar-malpica-200213235/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/DumarMalpica">
@@ -101,6 +101,3 @@
 
 ---
 
-<p align="center">
-  <i>⌨️ Building systems that think. Based in Colombia 🇨🇴</i>
-</p>
